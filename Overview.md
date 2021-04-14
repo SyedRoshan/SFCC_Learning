@@ -85,3 +85,13 @@ lib: | ?
   * 
 * Create slot configuration
 home -> bm -> banner
+# Create a new site
+## Manual approach
+* BM > Administration > Manage Sites 
+# Product Types
+* Standard Product
+* Variation Master
+* Variation group
+* Variation product
+* Product set
+* Product bundle
