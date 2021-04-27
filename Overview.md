@@ -7,11 +7,11 @@
 
 # Demandware concepts
 * **Realm** - A subscription that enables merchant to use Demandware software to develop online store front.
-* **Instance** - 
-* Organization
-* SiteGensis Application
-* Catalogss
-* Categories
+* **Instance** - Describes application infrastructure like web server, application server and database servers.
+* **Organization** - It contains overall storefront definitions and logics. This enables merchant to operate online store front.
+* **SiteGensis Application** - Demandware supplied storefront used for example purposes.
+* **Catalogs** - A collection of product definitions, images and category definitions.
+* **Categories** - Grouping of products
 
 # Types of Instances
 * Stg
