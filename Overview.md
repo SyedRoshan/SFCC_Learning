@@ -1,3 +1,18 @@
+# Tools in Demandware eCommerce
+* Demandware UX Studio
+* Demandware Storefront
+* Demandware Business Manager
+* Demandware Control Center
+* SiteGensis Application
+
+# Demandware concepts
+* **Realm** - A subscription that enables merchant to use Demandware software to develop online store front.
+* **Instance** - 
+* Organization
+* SiteGensis Application
+* Catalogss
+* Categories
+
 # Types of Instances
 * Stg
 * Dev
