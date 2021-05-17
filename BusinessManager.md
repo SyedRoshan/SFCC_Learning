@@ -80,4 +80,19 @@
 # Products
 ## Bookmarklet
   * Administration > Site Development > Development setup
-  
+  * Drag and drop "Show site Preview Information" link onto browser toolbar
+## Product Category Assignments
+  * Products > Product > Categories
+  * Options available
+    * Edit All
+    * Edit Selected
+    * Assign
+    * New
+    * Copy
+    * Delete
+# Product Set Tab
+  ## Product Attribute Definitions
+  * Merchant Tools > Product and Catalogs > Catalogs > Product Attribute Definitions
+  ## Adding Product Attributes to an Attributes Group
+  * Products and Catalogs > Catalogs > CatalogId - Edit > Product Attribute Definitions > Select Product Attribute > Edit
+  * 
