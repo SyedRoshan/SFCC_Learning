@@ -95,4 +95,6 @@
   * Merchant Tools > Product and Catalogs > Catalogs > Product Attribute Definitions
   ## Adding Product Attributes to an Attributes Group
   * Products and Catalogs > Catalogs > CatalogId - Edit > Product Attribute Definitions > Select Product Attribute > Edit
-  * 
+  ## Assigning Product to a Category
+  * Products and Catalogs > Catalogs > {CatalogId} > {Category}
+  * From category page, select products and click "Assign"
