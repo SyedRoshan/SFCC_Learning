@@ -98,3 +98,72 @@
   ## Assigning Product to a Category
   * Products and Catalogs > Catalogs > {CatalogId} > {Category}
   * From category page, select products and click "Assign"
+  ## Managing Product-Category Assignments
+  ## Assigning Product Default Categories
+  * Products and Catalogs > Products > Categories
+# Product Locking
+  * Time during which the product cannot be edited by others
+  * Merchant Tools > Site Preferences > Locking
+# Product sets
+  * To represent group of products for presentation in storefront.
+  * Like, presenting entire outfit for consideration, from which customer chooses pieces to purchase individually.
+# Product Option Model
+  * Feature allowing to customize the product like different size of hard disk and warranty options.
+  ## Managing Product Option Model
+  * Create attributes in system object editor, Administration > Site Development > System Objects
+  * Create global options, Products and Catalogs > Product Options.
+  ## Creating and assigning options
+  * Products and Catalogs > Products > {Product} > Options tab
+    ### Create local option
+    * Click "Lock", "New"
+    * Supply Name and ID and then click "Apply"
+    * Specify product options, click "Apply" (_For sorting use arrows_)
+    * Click "Apply"
+  ## To edit a product option
+  * Click on the link of that option to open the product option value editor
+  ## Adding a new local option values
+  * Use "New Value" in the value list
+  * Supply, ID, Value, Option prize and optional SKU and click "Apply"
+  * Use the currency drop-down control to change the input currency and to enter prices in a different currency.
+  ## Shared product options
+  * For Global production options, navigate to Products and Catalogs > Product Options
+  * Select the catalog
+  * It will display all shared product options
+  * Click New to open shared options
+  * Click [...] from list of previously created attributes
+  * Click Apply
+# Product Variations
+  * Product variation in some attributes like color or size etc.
+  * PVA (Product Variation Attribute)
+  ## Managing Product Variations
+  * Products and Catalogs > Products > [your product] > variations tab
+  * Variation attributes can be Local or Shared
+    ### Variation Attributes
+    * This allows you to select and maintain the variable attributes of the variation. Ex: Color and Size.
+    ### Variation Products
+    * This allows to create the combination of Variation Attributes and Products.
+    * For example, Phone (product) with different Colors (Black, Sliver, etc)
+  ## Viewing Product Variations in Storefront
+# Importing and Exporting
+ * Products and Catalogs > Import & Export
+# Pricing and Price Books
+  * Price of a products are managed using price book
+  * Price book contain price of products based on currency.
+  ## Managing price books and sites
+  * Relationship between price books and site is N to N
+  ## Nested pricing
+  * Price books can be nested using "Based On" option from price books
+  ## Creating Price Books and Price Tables
+  * Products and Catalogs > Price Books
+  * Click New
+  * On price book detail page, General Information tab
+    * ID
+    * Activated
+    * Name
+    * Description
+    * Currency
+    * Based On
+    * Valid From
+    * Valid To
+  * Click Apply
+  * Select Price Definitions tab to populate price books with prices.
