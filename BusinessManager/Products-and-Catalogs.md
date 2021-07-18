@@ -167,3 +167,13 @@
     * Valid To
   * Click Apply
   * Select Price Definitions tab to populate price books with prices.
+  ## Creating prices in Price Book
+  * Products and Catalogs > Price Books > Price Definitions
+  ## Making price book - site assignment
+  * Products and Catalogs > Price Books > Site Assignments tab
+  * Select the site and Click "Apply"
+  ## Assigning Price Books to Source Code
+  * Online Marketing > Source-Code Groups > Price Books
+  ## Product Price Indexing
+# Price Lookup
+  * Mechanism determines the best price (lowest price) for that quantity.
