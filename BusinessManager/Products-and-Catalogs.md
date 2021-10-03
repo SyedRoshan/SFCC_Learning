@@ -177,3 +177,5 @@
   ## Product Price Indexing
 # Price Lookup
   * Mechanism determines the best price (lowest price) for that quantity.
+# Recommendation
+# Inventory
